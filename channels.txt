@@ -1,0 +1,62 @@
+RTP 1
+2
+Portugal no Coraçao
+Entertainment
+monday
+11
+0
+175
+Bom dia Portugal
+News
+tuesday
+6
+0
+210
+SIC
+3
+Jornal da Noite
+News
+saturday
+20
+0
+110
+Vale Tudo
+Entertainment
+sunday
+22
+0
+195
+Futebol Liga Europa: Juventos vs Benfica
+Sports
+wednesday
+20
+5
+110
+TVI
+3
+Melhor do que falecer
+Entertainment
+thursday
+20
+57
+20
+Jornal da Uma
+News
+friday
+13
+0
+58
+Master Chef
+Entertainment
+saturday
+21
+15
+105
+SPORT.TV1
+1
+Chelsea vs Atl. Madrid
+Sports
+thursday
+19
+45
+110
